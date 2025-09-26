@@ -1,6 +1,6 @@
 # 💻 Tugas Praktikum PBW
 
-> Proyek Web Responsif - Praktikum Pemrograman Berbasis Web  
+> Proyek Web Kecil - Praktikum Pemrograman Berbasis Web  
 > **Nama:** Athalla Safriali  
 > **NPM:** 4523210022  
 > **Mata Kuliah:** Praktikum PBW  
